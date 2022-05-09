@@ -10,6 +10,8 @@ A visualization of where disease outbreaks in London happened and the city water
 
 <iframe src='./london-map.html' width=800 height=600 frameBorder=0></iframe>
 
+<a href='./london-map.html' target='_blank'>Link to Snow Map</a>
+
 ## Question 2: Children Height vs Mothers' and Fathers'
 
 Child heights graphed against their mother's and father's in 3D space, showing potential correlations
@@ -21,7 +23,3 @@ Child heights graphed against their mother's and father's in 3D space, showing p
 Choropleth map of the French departments showing relative populations in each region
 
 <iframe src='./france-fig.html' width=800 height=600 frameBorder=0></iframe>
-
-
-
-<iframe src='https://www.wikipedia.org/' width=800 height=600 frameBorder=0></iframe>
