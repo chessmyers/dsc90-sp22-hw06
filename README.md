@@ -18,8 +18,12 @@ Child heights graphed against their mother's and father's in 3D space, showing p
 
 <iframe src='./plotly-fig.html' width=800 height=600 frameBorder=0></iframe>
 
+<a href='./plotly-fig.html' target='_blank'>Link to Height Graph</a>
+
 ## Question 3: Populations of French Departments
 
 Choropleth map of the French departments showing relative populations in each region
 
 <iframe src='./france-fig.html' width=800 height=600 frameBorder=0></iframe>
+
+<a href='./france-fig.html' target='_blank'>Link to France Map</a>
