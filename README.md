@@ -21,3 +21,7 @@ Child heights graphed against their mother's and father's in 3D space, showing p
 Choropleth map of the French departments showing relative populations in each region
 
 <iframe src='./france-fig.html' width=800 height=600 frameBorder=0></iframe>
+
+
+
+<iframe src='https://www.wikipedia.org/' width=800 height=600 frameBorder=0></iframe>
